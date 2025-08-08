@@ -1,4 +1,4 @@
-# Creating-VM-for-Security-Testing
+# security-testing-vm-setup
 Configuring the Microsoft Windows Sandbox &amp; Creating VM of Windows 10 for Security Testing
 
 Objective: Given a scenario, implement host or application security solutions.
